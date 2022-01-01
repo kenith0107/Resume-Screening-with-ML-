@@ -5,4 +5,4 @@ Today, we will read and screen the resume using machine learning with Python so 
 We have publically available dataset from Kaggle. You can download the data using the below link.
 https://www.kaggle.com/gauravduttakiit/resume-dataset
 
-The code is attached here and I have implemented this in google colab. If you are using any other software make sure you install all the required libraries/packages mentioned in the code.
+The code is attached here and If you are using any other software make sure you install all the required libraries/packages mentioned in the code.
